@@ -3,5 +3,5 @@ To-Do-List:
 - Learn Python
 - Brush Teeth
 - Sleep
-- Don't Procrastinate
+- Procrastinate
 *Note: You have to...!!!
